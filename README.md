@@ -8,7 +8,7 @@ Note App
 Java
 
 **Design Patterns:**
-MVVM
+MVC
 
 **Sdk Version:** 
 minSdkVersion 16
